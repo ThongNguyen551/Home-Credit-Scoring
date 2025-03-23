@@ -1,5 +1,5 @@
 # Home-Credit-Scoring
-- This is my personal project on working with tabular data. It contains both codes and literature review. 
+- This is my personal project on working with tabular data. It contains both codes and literature review. Due to limitations of resouces, I could not manage to train with all data (greater than 1.5 millions instances. Instead, I resampled 305,000 instances after multicollinearity filtering with VIF. These instanced were used for feature selection and training model for later tasks 
 
 ## Evironment and Packages
 Python 3.9
