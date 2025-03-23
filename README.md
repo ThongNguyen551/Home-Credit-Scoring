@@ -25,4 +25,4 @@ python main.py --setup train
 python eval.py
 ```
 ## Literature reivew written by me
-[A survey on credit scoring models](https://drive.google.com/file/d/1tlTC5S4XQWLIZ59qmVK6IE7gFR3NDMfr/view?usp=sharing)
+[A survey on credit scoring models](https://drive.google.com/file/d/1AhkYSwwG1IfupKcqW621gCPtAoLSaEsH/view?usp=sharing)
