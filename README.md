@@ -1,4 +1,4 @@
-# Home-Credit-Scoring-Prediction
+# Home-Credit-Scoring
 - This is my personal project on working with tabular data. It contains both codes and literature review. 
 
 ## Evironment and Packages
